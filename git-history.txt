@@ -1,0 +1,31 @@
+commit 0c7b41a1e399e73f4fe7900cfb7eb9659067b771
+Author: offgridmaniac <66128694+offgridmaniac@users.noreply.github.com>
+Date:   Wed Oct 28 11:48:22 2020 +0100
+
+    rename file
+    
+    rename
+
+commit 345ec855bac32a1b995326b6345d61a3cbd9f264
+Author: offgridmaniac <66128694+offgridmaniac@users.noreply.github.com>
+Date:   Wed Oct 28 11:47:17 2020 +0100
+
+    Update lorem.txt
+    
+    Next sentences
+
+commit b4a531c58af6654fb6e34223b4e831aaadd163bf
+Author: offgridmaniac <66128694+offgridmaniac@users.noreply.github.com>
+Date:   Wed Oct 28 11:44:01 2020 +0100
+
+    Create lorem.txt
+    
+    lorem file
+
+commit f41cabf4a7fd769fb0de7674472bd48f14b1a817
+Author: offgridmaniac <66128694+offgridmaniac@users.noreply.github.com>
+Date:   Wed Oct 28 11:41:44 2020 +0100
+
+    Create .gitignore
+    
+    Create .gitignore
